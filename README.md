@@ -1,4 +1,7 @@
-### Hi there, I'm Viktor 👋  
+# Well, Hello There, I'm Viktor 👋  
+- ### *Exploring the galaxy of software development, crafting clean code, and designing scalable architectures.*
+- ### *Every bug is just a puzzle waiting to be solved!* 🛸💡 
+# May the code be with you! :raising_hand:"
 
 🚀 **Software Developer**  
 I specialize in building scalable backend solutions. While most of my experience lies in backend development, 
@@ -31,6 +34,10 @@ I'm also proficient in building modern web applications using cutting-edge front
 - **Containerization**: Docker
 
 :computer: **Bigger Projects:**  
+
+-------------------------------------------------------------------------------------------------
+
+# My Repository Projects
 
 :calendar: *Year: 2020*
 
@@ -104,7 +111,15 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 🔹 [Deploy to Azure App Service](https://github.com/vik37/blazor-deploy-to-azure-aps) - Exploring deploy .NET Blazor App on Azure App Service, including configurations, using GitHub CI/CD pipeline.           
 🔹 [Parralel Programming](https://github.com/vik37/ParallelProgramming) - Learning Parallel Programming with C# (Udemy Course).                       
-🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.     
+🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.    
+
+------------------------------------------------------------------------------
+
+## 🛠 Community Contributions:
+
+- - Reported an issue in [HR.LeaveManagement.Clean](https://github.com/trevoirwilliams/HR.LeaveManagement.Clean/issues/8) related to `Invalid JWT Security Token - expire` configuration, which caused a validation problem due to a different time zone later when saving to the browser's local storage.
+ 
+---------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 How to reach me:
 
