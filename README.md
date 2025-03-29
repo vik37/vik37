@@ -104,7 +104,7 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 🔹 [Deploy to Azure App Service](https://github.com/vik37/blazor-deploy-to-azure-aps) - Exploring deploy .NET Blazor App on Azure App Service, including configurations, using GitHub CI/CD pipeline.           
 🔹 [Parralel Programming](https://github.com/vik37/ParallelProgramming) - Learning Parallel Programming with C# (Udemy Course).                       
-🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.  is it good for now?
+🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.    
 
 <!--
 **vik37/vik37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
