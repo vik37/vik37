@@ -106,7 +106,7 @@ I'm also proficient in building modern web applications using cutting-edge front
 🔹 [Parralel Programming](https://github.com/vik37/ParallelProgramming) - Learning Parallel Programming with C# (Udemy Course).                       
 🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.     
 
-## Contacts:
+## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viktor-zafirovski-8165725a/)
 [![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=Google-Chrome)](https://viktorzafirovski-app.web.app/)
