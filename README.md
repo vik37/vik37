@@ -104,7 +104,19 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 🔹 [Deploy to Azure App Service](https://github.com/vik37/blazor-deploy-to-azure-aps) - Exploring deploy .NET Blazor App on Azure App Service, including configurations, using GitHub CI/CD pipeline.           
 🔹 [Parralel Programming](https://github.com/vik37/ParallelProgramming) - Learning Parallel Programming with C# (Udemy Course).                       
-🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.    
+🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.     
+
+## Contacts:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viktor-zafirovski-8165725a/)
+[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=Google-Chrome)](https://viktorzafirovski-app.web.app/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/viktorzafirovs1)  
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14813929/viktor38)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/viktor.zafirovski/)    
+
+🔹 :phone: *+389/72-306-596*    
+🔹 :incoming_envelope: vik.zafirovski@gmail.com
+
 
 <!--
 **vik37/vik37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
