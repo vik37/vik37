@@ -61,7 +61,7 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 🔹 [Ksenija Web App - Repo](https://github.com/vik37/ksenija_webapp) <br>
 > - **Short description:**<br>
-> My first experience was making an app for someone else (A former colleague while I worked as a video editor, 2008-12, and book writer). Building a full-fledged application with .Net. Architecture: N-Tier - Layers, MSSSQL and Angular, **Technologies**: *(.NET 3.1, .NET Web API, MSSQL, Entity Framework, Identity Framework, Bearer Jwt Token, Angular, HTML, CSS, Bootstrap )*
+> My first experience was making an app for someone else (A former colleague while I worked as a video editor, 2008-12, and book writer). Building a full-fledged application with .Net. Architecture: N-Tier - Layers, MSSSQL and Angular, **Technologies**: *(.NET Core 3.1, .NET Web API, MSSQL, Entity Framework, Identity Framework, Bearer Jwt Token, Angular, HTML, CSS, Bootstrap )*
 
 :heavy_exclamation_mark: *The application was shut down after 2 years of work, and this is part of the code based on my experience.*
 
