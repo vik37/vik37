@@ -1,11 +1,11 @@
 # Well, Hello There, I'm Viktor 👋  
 - ### *Exploring the galaxy of software development, crafting clean code, and designing scalable architectures.*
 - ### *Every bug is just a puzzle waiting to be solved!* 🛸💡 
-# May the code be with you! :raising_hand:"
+# May the code be with you! :raising_hand:
 
 🚀 **Software Developer**  
 I specialize in building scalable backend solutions. While most of my experience lies in backend development, 
-I'm also proficient in building modern web applications using cutting-edge frontend technologies.
+I'm also proficient in building modern web applications using cutting-edge front-end technologies.
 
 💡 Passionate about backend development, full-stack development, cloud solutions, and scalable architectures.  
 
@@ -37,7 +37,11 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 -------------------------------------------------------------------------------------------------
 
-# My Repository Projects
+ 🕰️ Let me show you some of my repositories through time :hourglass_flowing_sand:
+
+# My Repository Examples during the Time
+
+**Bigger Projects**
 
 :calendar: *Year: 2020*
 
@@ -51,13 +55,21 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 🔹 [Zoo App - Repo](https://github.com/vik37/AngularApp) <br>
 > - **Short description:**<br>
-> It was built during my studies at SEDC Skopje. Building a Frontend SPA Application with Angular, **Technologies**: *(Angular 10.2.0, RxJs, SCSS, HTML, Flex-Box, Angular Animation)*
+> It was built during my studies at SEDC Skopje. Building a Frontend SPA Application with Angular, **Technologies**: *(Angular 10.2.0, RxJs, SCSS, HTML, Flex-Box, Angular Animation)*   
+
+:calendar: *Year: 2021*
+
+🔹 [Ksenija Web App - Repo](https://github.com/vik37/ksenija_webapp) <br>
+> - **Short description:**<br>
+> My first experience was making an app for someone else (A former colleague while I worked as a video editor, 2008-12, and book writer). Building a full-fledged application with .Net. Architecture: N-Tier - Layers, MSSSQL and Angular, **Technologies**: *(.NET 3.1, .NET Web API, MSSQL, Entity Framework, Identity Framework, Bearer Jwt Token, Angular, HTML, CSS, Bootstrap )*
+
+:heavy_exclamation_mark: *The application was shut down after 2 years of work, and this is part of the code based on my experience.*
 
 :calendar: *Year: 2023* 
 
 🔹 [Mango Restaurant - Repo](https://github.com/vik37/Microservices_MangoReastaurant_UdemyCurse) <br>
 > - **Short description:**<br>
-> It was built following an udemy course about **Microservices Architecture**. Building a Frontend SPA Application with Angular, **Technologies**: *(.NET 6, .NET API, .NET MVC, MSSQL, Entity Framework, RabbitMQ, Azure Service Bus, AutoMapper, Bearer JwtToken Authentication, Identity Service (OAuth, OIDC), Ocelot Gateway)*
+> It was built following an Udemy course about **Microservices Architecture**. Building a Frontend SPA Application with Angular, **Technologies**: *(.NET 6, .NET API, .NET MVC, MSSQL, Entity Framework, RabbitMQ, Azure Service Bus, AutoMapper, Bearer JwtToken Authentication, Identity Service (OAuth, OIDC), Ocelot Gateway)*
 
 🔹 [E-Shop - Repo](https://github.com/vik37/EShop_ContainerizedMicroservices_Full) <br>
 > - **Short description:**<br>
@@ -86,10 +98,15 @@ I'm also proficient in building modern web applications using cutting-edge front
 :calendar: *Year: 2021*
 
 🔹 [React Examle](https://github.com/vik37/react_exemple) - Exploring React SPA.  
+🔹 [Data Structures and Algorythms Exercises](https://github.com/vik37/c-sharp_exercises) - Learning and Exploring Data Structures & Algorythms using C# in Hackerank. I also tested some of the tasks locally.
 
 :calendar: *Year: 2022*
 
-🔹 [Design Patterns with C#](https://github.com/vik37/DesignPatterns_C-DotNet) - Learning Design Patterns (Geng of 4), including S.O.L.I.D. Principles. 
+🔹 [From Book - Head First Design Pattern with C#](https://github.com/vik37/FromBook_HeadFirstDesignPattern) - Learning Design Patterns while reading the book Head First Design Patterns.
+The code examples in the book were written in Java Programming Languages, which I translated to C#.               
+[<img src="https://m.media-amazon.com/images/I/91bobQSPQrL._SY342_.jpg" width="70"/>](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+
+🔹 [Design Patterns with C#](https://github.com/vik37/DesignPatterns_C-DotNet) - Learning Design Patterns (Geng of 4), including S.O.L.I.D. Principles.   
 🔹 [Exploring RxJs](https://github.com/vik37/rxjs_exercise) - Exploring RxJs in Angular.             
 🔹 [Angular Directives](https://github.com/vik37/Ang_Deep_Directives) - Exploring Angular Directives.      
 
@@ -119,6 +136,15 @@ I'm also proficient in building modern web applications using cutting-edge front
 
 - - Reported an issue in [HR.LeaveManagement.Clean](https://github.com/trevoirwilliams/HR.LeaveManagement.Clean/issues/8) related to `Invalid JWT Security Token - expire` configuration, which caused a validation problem due to a different time zone later when saving to the browser's local storage.
  
+---------------------------------------------------------------------------------------------------------------------------
+
+## ⚡ Fun fact:
+
+"**Fullstack Development** - *The Rule of Two*: Always two there are—no more, no less.              
+The Backend to embody power, the Frontend to bring balance."             
+
+**Darth (DOT NET & Angular Developer) Viktor** :sunglasses:
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 How to reach me:
