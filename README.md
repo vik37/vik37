@@ -153,7 +153,7 @@ The Backend to embody power, the Frontend to bring balance."
 [![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=Google-Chrome)](https://viktorzafirovski-app.web.app/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/viktorzafirovs1)  
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14813929/viktor38)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/viktor.zafirovski/)    
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61560937777333)    
 
 🔹 :phone: *+389/72-306-596*    
 🔹 :incoming_envelope: vik.zafirovski@gmail.com
