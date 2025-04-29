@@ -85,7 +85,17 @@ I'm also proficient in building modern web applications using cutting-edge front
 > It was built following an udemy course about **Clean Architecture**: *(.NET 8, .NET API, Blazor Web Assemly, Entity Framework, Identity Framework, MSSQL, Bearer JwtToken Authentication, MediatR, Unit and Integration Testing[XUnit, Moq, Shoudly], Bootstrap, HTML )*, **Architecture Design:** *(Microservices, Event-Driven, DDD{Domain Driven Design in Order Service}, CQRS{Command Query Responsibility Segregation}, Simple CRUD (Create Read Update Delete {Product & Basket Services}))*
 
 **Note:**
-:interrobang: *It's not finished yet*
+:interrobang: *This project serves as an educational exercise in Clean Architecture, rather than a fully developed business system.*
+
+🔹 [Orchware-Public](https://github.com/vik37/Orchware-Public) <br>
+**Orchware – My First Fully Self-Built System as Part of My Portfolio**     
+> - **Short description:**<br>
+> Backoffice & Frontoffice Separation – Ensuring structured workflows between warehouse logistics (Backoffice) and customer order management (Frontoffice).
+ **Tech Stack**: *(.NET 8, .NET API, Entity Framework, Dapper, MSSQL, MediatR, FluentValidation, CsvHelper )*, **Architecture Design:** *(Modular System, Clean Architecture{Backoffice}, Vertical Slice{Frontoffice}, Event-Driven, DDD{Domain Driven Design in Order Service}, CQRS{Command Query Responsibility Segregation}))*
+
+**Note:**
+:interrobang: **Status**: In Progress, *It's not finished yet*
+- _**Purpose**: This is a public code example; the real app is in a private repo._
 
 📌 **Exploring and Learning:**  
 
@@ -128,7 +138,8 @@ The code examples in the book were written in Java Programming Languages, which 
 
 🔹 [Deploy to Azure App Service](https://github.com/vik37/blazor-deploy-to-azure-aps) - Exploring deploy .NET Blazor App on Azure App Service, including configurations, using GitHub CI/CD pipeline.           
 🔹 [Parralel Programming](https://github.com/vik37/ParallelProgramming) - Learning Parallel Programming with C# (Udemy Course).                       
-🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.    
+🔹 [Git Hooks](https://github.com/vik37/git-hooks-local) - Learning and Exploring Git Hooks configurations.   
+
 
 ------------------------------------------------------------------------------
 
